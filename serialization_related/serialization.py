@@ -7,7 +7,7 @@
 import pickle
 
 # 序列化
-with open('./data.dat', 'wb') as f:
+with open('../os_related/data.dat', 'wb') as f:
     a = "1"
     b = 1
     c =[1]
@@ -17,7 +17,7 @@ with open('./data.dat', 'wb') as f:
     pickle.dump(c, f)
 
 # 反序列化
-with open('./data.dat', 'rb') as f:
+with open('../os_related/data.dat', 'rb') as f:
     a = pickle.load(f)
     b = pickle.load(f)
     c = pickle.load(f)

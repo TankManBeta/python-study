@@ -14,7 +14,7 @@ os.startfile(r"E:\Program Files\Tencent\QQ\Bin\QQScLauncher.exe")
 print(os.name)
 print(os.sep)
 print(repr(os.linesep))
-print(os.stat(r"./deep_copy.py"))
+print(os.stat(r"../copy_related/deep_copy.py"))
 # 工作目录相关操作
 print(os.getcwd())
 os.chdir(r"d:/")
