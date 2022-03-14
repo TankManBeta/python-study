@@ -3,21 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="4a95b42c-ac2f-4ddc-a4b0-16e0b223d6c6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SimplePaint/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/GUI_related/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SimplePaint/paint.py" beforeDir="false" afterPath="$PROJECT_DIR$/GUI_related/paint.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data.dat" beforeDir="false" afterPath="$PROJECT_DIR$/os_related/data.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep_copy.py" beforeDir="false" afterPath="$PROJECT_DIR$/copy_related/deep_copy.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/draw_olympic.py" beforeDir="false" afterPath="$PROJECT_DIR$/draw_related/draw_olympic.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/factory_pattern.py" beforeDir="false" afterPath="$PROJECT_DIR$/pattern_related/factory_pattern.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/for_else.py" beforeDir="false" afterPath="$PROJECT_DIR$/structure_related/for_else.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/os_related.py" beforeDir="false" afterPath="$PROJECT_DIR$/os_related/os_related.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/serialization.py" beforeDir="false" afterPath="$PROJECT_DIR$/serialization_related/serialization.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shallow_copy.py" beforeDir="false" afterPath="$PROJECT_DIR$/copy_related/shallow_copy.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shutil_related.py" beforeDir="false" afterPath="$PROJECT_DIR$/os_related/shutil_related.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/singleton_pattern.py" beforeDir="false" afterPath="$PROJECT_DIR$/pattern_related/singleton_pattern.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_dir/aaa.html" beforeDir="false" afterPath="$PROJECT_DIR$/os_related/test_dir/aaa.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_dir/aaa.txt" beforeDir="false" afterPath="$PROJECT_DIR$/os_related/test_dir/aaa.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/variant_string.py" beforeDir="false" afterPath="$PROJECT_DIR$/string_related/variant_string.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql_related/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/sqlite3_related/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql_related/create_table.py" beforeDir="false" afterPath="$PROJECT_DIR$/sqlite3_related/create_table.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql_related/insert_value.py" beforeDir="false" afterPath="$PROJECT_DIR$/sqlite3_related/insert_value.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql_related/insert_values.py" beforeDir="false" afterPath="$PROJECT_DIR$/sqlite3_related/insert_values.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,8 +45,8 @@
       <recent name="D:\workspace\PycharmProjects\RestartPython\draw_related" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.for_else">
-    <configuration name="for_else" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.query_values">
+    <configuration name="delete_value" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="RestartPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -65,12 +54,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/structure_related" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sqlite3_related" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/structure_related/for_else.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sqlite3_related/delete_value.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="insert_value" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="RestartPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sqlite3_related" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sqlite3_related/insert_value.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -87,12 +98,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sql_related" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sqlite3_related" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sql_related/insert_values.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sqlite3_related/insert_values.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -101,7 +112,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="serialization" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="query_values" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="RestartPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -109,12 +120,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/serialization_related" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sqlite3_related" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/serialization_related/serialization.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sqlite3_related/query_values.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -123,7 +134,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="singleton_pattern" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="update_value" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="RestartPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -131,12 +142,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pattern_related" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sqlite3_related" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pattern_related/singleton_pattern.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sqlite3_related/update_value.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -145,35 +156,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="variant_string" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="RestartPython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/string_related" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/string_related/variant_string.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+    <list>
+      <item itemvalue="Python.insert_value" />
+      <item itemvalue="Python.insert_values" />
+      <item itemvalue="Python.query_values" />
+      <item itemvalue="Python.update_value" />
+      <item itemvalue="Python.delete_value" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.for_else" />
+        <item itemvalue="Python.query_values" />
+        <item itemvalue="Python.delete_value" />
+        <item itemvalue="Python.update_value" />
         <item itemvalue="Python.insert_values" />
-        <item itemvalue="Python.variant_string" />
-        <item itemvalue="Python.serialization" />
-        <item itemvalue="Python.singleton_pattern" />
+        <item itemvalue="Python.insert_value" />
       </list>
     </recent_temporary>
   </component>
@@ -205,7 +201,10 @@
       <workItem from="1642571637895" duration="14000" />
       <workItem from="1642741814423" duration="425000" />
       <workItem from="1645697861791" duration="1093000" />
-      <workItem from="1645702798967" duration="2295000" />
+      <workItem from="1645702798967" duration="4019000" />
+      <workItem from="1645754639913" duration="8000" />
+      <workItem from="1647228127247" duration="48000" />
+      <workItem from="1647237683210" duration="5000" />
     </task>
     <servers />
   </component>
@@ -213,26 +212,30 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="447" y="73" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1645706643455">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="447" y="73" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1645706643455" />
     <state x="879" y="224" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1642322709147">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="879" y="224" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1642322709147" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1645705137992">
+    <state width="723" height="210" key="GridCell.Tab.0.bottom" timestamp="1645706856943">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1645705137992" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1645705137992">
+    <state width="723" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1645706856943" />
+    <state width="723" height="210" key="GridCell.Tab.0.center" timestamp="1645706856943">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1645705137992" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1645705137992">
+    <state width="723" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1645706856943" />
+    <state width="723" height="210" key="GridCell.Tab.0.left" timestamp="1645706856942">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1645705137992" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1645705137992">
+    <state width="723" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1645706856942" />
+    <state width="723" height="210" key="GridCell.Tab.0.right" timestamp="1645706856943">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1645705137992" />
+    <state width="723" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1645706856943" />
     <state width="725" height="258" key="GridCell.Tab.1.bottom" timestamp="1642507320056">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -260,18 +263,25 @@
     <SUITE FILE_PATH="coverage/RestartPython$tkinter_related.coverage" NAME="tkinter_related Coverage Results" MODIFIED="1642485923622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/RestartPython$serialization.coverage" NAME="serialization Coverage Results" MODIFIED="1645704856922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/serialization_related" />
     <SUITE FILE_PATH="coverage/RestartPython$sqlite3_related.coverage" NAME="sqlite3_related Coverage Results" MODIFIED="1645703771368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RestartPython$delete_value.coverage" NAME="delete_value Coverage Results" MODIFIED="1645706808232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sqlite3_related" />
     <SUITE FILE_PATH="coverage/RestartPython$shutil_related.coverage" NAME="shutil_related Coverage Results" MODIFIED="1645704813697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/os_related" />
-    <SUITE FILE_PATH="coverage/RestartPython$insert_values.coverage" NAME="insert_values Coverage Results" MODIFIED="1645705129401" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sql_related" />
+    <SUITE FILE_PATH="coverage/RestartPython$copy_deepcopy__1_.coverage" NAME="copy_deepcopy (1) Coverage Results" MODIFIED="1636605354762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RestartPython$update_value.coverage" NAME="update_value Coverage Results" MODIFIED="1645706653924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sqlite3_related" />
+    <SUITE FILE_PATH="coverage/RestartPython$paint__1_.coverage" NAME="paint (1) Coverage Results" MODIFIED="1645704717062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI_related" />
+    <SUITE FILE_PATH="coverage/RestartPython$shallow_copy.coverage" NAME="shallow_copy Coverage Results" MODIFIED="1645704689311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/copy_related" />
+    <SUITE FILE_PATH="coverage/RestartPython$insert_value.coverage" NAME="insert_value Coverage Results" MODIFIED="1645706529335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sqlite3_related" />
+    <SUITE FILE_PATH="coverage/RestartPython$query_values__1_.coverage" NAME="query_values Coverage Results" MODIFIED="1645706812109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sqlite3_related" />
+    <SUITE FILE_PATH="coverage/RestartPython$insert_values.coverage" NAME="insert_values Coverage Results" MODIFIED="1645706533358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sqlite3_related" />
+    <SUITE FILE_PATH="coverage/RestartPython$create_table.coverage" NAME="create_table Coverage Results" MODIFIED="1645706520418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sqlite3_related" />
+    <SUITE FILE_PATH="coverage/RestartPython$query_value.coverage" NAME="query_value Coverage Results" MODIFIED="1645706583339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sqlite3_related" />
     <SUITE FILE_PATH="coverage/RestartPython$singleton_pattern.coverage" NAME="singleton_pattern Coverage Results" MODIFIED="1645704845226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pattern_related" />
     <SUITE FILE_PATH="coverage/RestartPython$os_related.coverage" NAME="os_related Coverage Results" MODIFIED="1645704733656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/os_related" />
     <SUITE FILE_PATH="coverage/RestartPython$deep_copy.coverage" NAME="deep_copy Coverage Results" MODIFIED="1645704683688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/copy_related" />
     <SUITE FILE_PATH="coverage/RestartPython$draw_olympic.coverage" NAME="draw_olympic Coverage Results" MODIFIED="1645704697060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/draw_related" />
-    <SUITE FILE_PATH="coverage/RestartPython$copy_deepcopy__1_.coverage" NAME="copy_deepcopy (1) Coverage Results" MODIFIED="1636605354762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/RestartPython$paint.coverage" NAME="paint Coverage Results" MODIFIED="1645704152120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SimplePaint" />
     <SUITE FILE_PATH="coverage/RestartPython$aaa.coverage" NAME="aaa Coverage Results" MODIFIED="1636537676217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/RestartPython$paint__1_.coverage" NAME="paint (1) Coverage Results" MODIFIED="1645704717062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI_related" />
     <SUITE FILE_PATH="coverage/RestartPython$for_else.coverage" NAME="for_else Coverage Results" MODIFIED="1645705137985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/structure_related" />
+    <SUITE FILE_PATH="coverage/RestartPython$query_values.coverage" NAME="query_values Coverage Results" MODIFIED="1645706056585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sql_related" />
     <SUITE FILE_PATH="coverage/RestartPython$factory_pattern.coverage" NAME="factory_pattern Coverage Results" MODIFIED="1645704841239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pattern_related" />
-    <SUITE FILE_PATH="coverage/RestartPython$shallow_copy.coverage" NAME="shallow_copy Coverage Results" MODIFIED="1645704689311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/copy_related" />
   </component>
 </project>
