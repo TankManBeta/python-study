@@ -3,10 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="4a95b42c-ac2f-4ddc-a4b0-16e0b223d6c6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sql_related/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/sqlite3_related/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sql_related/create_table.py" beforeDir="false" afterPath="$PROJECT_DIR$/sqlite3_related/create_table.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sql_related/insert_value.py" beforeDir="false" afterPath="$PROJECT_DIR$/sqlite3_related/insert_value.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sql_related/insert_values.py" beforeDir="false" afterPath="$PROJECT_DIR$/sqlite3_related/insert_values.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +41,7 @@
       <recent name="D:\workspace\PycharmProjects\RestartPython\draw_related" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.query_values">
+  <component name="RunManager" selected="Python.multiprocess">
     <configuration name="delete_value" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="RestartPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -68,28 +64,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="insert_value" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="RestartPython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sqlite3_related" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sqlite3_related/insert_value.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="insert_values" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="RestartPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -104,6 +78,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sqlite3_related/insert_values.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="multiprocess" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="RestartPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/multiprocess_related" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/multiprocess_related/multiprocess.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -157,19 +153,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.insert_value" />
       <item itemvalue="Python.insert_values" />
       <item itemvalue="Python.query_values" />
       <item itemvalue="Python.update_value" />
       <item itemvalue="Python.delete_value" />
+      <item itemvalue="Python.multiprocess" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.multiprocess" />
         <item itemvalue="Python.query_values" />
         <item itemvalue="Python.delete_value" />
         <item itemvalue="Python.update_value" />
         <item itemvalue="Python.insert_values" />
-        <item itemvalue="Python.insert_value" />
       </list>
     </recent_temporary>
   </component>
@@ -205,6 +201,8 @@
       <workItem from="1645754639913" duration="8000" />
       <workItem from="1647228127247" duration="48000" />
       <workItem from="1647237683210" duration="5000" />
+      <workItem from="1647240693731" duration="83000" />
+      <workItem from="1648280715050" duration="559000" />
     </task>
     <servers />
   </component>
@@ -260,6 +258,7 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/RestartPython$aa.coverage" NAME="aa Coverage Results" MODIFIED="1636385055525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/RestartPython$variant_string.coverage" NAME="variant_string Coverage Results" MODIFIED="1645705122213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/string_related" />
+    <SUITE FILE_PATH="coverage/RestartPython$multiprocess.coverage" NAME="multiprocess Coverage Results" MODIFIED="1648281231712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/multiprocess_related" />
     <SUITE FILE_PATH="coverage/RestartPython$tkinter_related.coverage" NAME="tkinter_related Coverage Results" MODIFIED="1642485923622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/RestartPython$serialization.coverage" NAME="serialization Coverage Results" MODIFIED="1645704856922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/serialization_related" />
     <SUITE FILE_PATH="coverage/RestartPython$sqlite3_related.coverage" NAME="sqlite3_related Coverage Results" MODIFIED="1645703771368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
