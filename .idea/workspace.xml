@@ -31,8 +31,12 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/multiprocess_related" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace\PycharmProjects\RestartPython\multiprocess_related" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\workspace\PycharmProjects\RestartPython\structure_related" />
       <recent name="D:\workspace\PycharmProjects\RestartPython\pattern_related" />
@@ -41,51 +45,7 @@
       <recent name="D:\workspace\PycharmProjects\RestartPython\draw_related" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.multiprocess">
-    <configuration name="delete_value" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="RestartPython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sqlite3_related" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sqlite3_related/delete_value.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="insert_values" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="RestartPython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sqlite3_related" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sqlite3_related/insert_values.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.usage_inherit">
     <configuration name="multiprocess" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="RestartPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -130,7 +90,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="update_value" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="usage_func_join" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="RestartPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -138,12 +98,56 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sqlite3_related" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/multiprocess_related" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sqlite3_related/update_value.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/multiprocess_related/usage_func_join.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="usage_inherit" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="RestartPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/multiprocess_related" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/multiprocess_related/usage_inherit.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="usage_property" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="RestartPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/multiprocess_related" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/multiprocess_related/usage_property.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,19 +157,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.insert_values" />
       <item itemvalue="Python.query_values" />
-      <item itemvalue="Python.update_value" />
-      <item itemvalue="Python.delete_value" />
       <item itemvalue="Python.multiprocess" />
+      <item itemvalue="Python.usage_func_join" />
+      <item itemvalue="Python.usage_property" />
+      <item itemvalue="Python.usage_inherit" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.usage_inherit" />
+        <item itemvalue="Python.usage_property" />
+        <item itemvalue="Python.usage_func_join" />
         <item itemvalue="Python.multiprocess" />
         <item itemvalue="Python.query_values" />
-        <item itemvalue="Python.delete_value" />
-        <item itemvalue="Python.update_value" />
-        <item itemvalue="Python.insert_values" />
       </list>
     </recent_temporary>
   </component>
@@ -202,7 +206,9 @@
       <workItem from="1647228127247" duration="48000" />
       <workItem from="1647237683210" duration="5000" />
       <workItem from="1647240693731" duration="83000" />
-      <workItem from="1648280715050" duration="559000" />
+      <workItem from="1648280715050" duration="682000" />
+      <workItem from="1650027306529" duration="1130000" />
+      <workItem from="1650028465101" duration="488000" />
     </task>
     <servers />
   </component>
@@ -218,38 +224,38 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="879" y="224" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1642322709147" />
-    <state width="723" height="210" key="GridCell.Tab.0.bottom" timestamp="1645706856943">
+    <state width="1493" height="208" key="GridCell.Tab.0.bottom" timestamp="1650028957463">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="723" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1645706856943" />
-    <state width="723" height="210" key="GridCell.Tab.0.center" timestamp="1645706856943">
+    <state width="1493" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1650028957463" />
+    <state width="1493" height="208" key="GridCell.Tab.0.center" timestamp="1650028957463">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="723" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1645706856943" />
-    <state width="723" height="210" key="GridCell.Tab.0.left" timestamp="1645706856942">
+    <state width="1493" height="208" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1650028957463" />
+    <state width="1493" height="208" key="GridCell.Tab.0.left" timestamp="1650028957462">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="723" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1645706856942" />
-    <state width="723" height="210" key="GridCell.Tab.0.right" timestamp="1645706856943">
+    <state width="1493" height="208" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1650028957462" />
+    <state width="1493" height="208" key="GridCell.Tab.0.right" timestamp="1650028957463">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="723" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1645706856943" />
-    <state width="725" height="258" key="GridCell.Tab.1.bottom" timestamp="1642507320056">
+    <state width="1493" height="208" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1650028957463" />
+    <state width="1493" height="260" key="GridCell.Tab.1.bottom" timestamp="1650028445419">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="725" height="258" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1642507320056" />
-    <state width="725" height="258" key="GridCell.Tab.1.center" timestamp="1642507320056">
+    <state width="1493" height="260" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1650028445419" />
+    <state width="1493" height="260" key="GridCell.Tab.1.center" timestamp="1650028445419">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="725" height="258" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1642507320056" />
-    <state width="725" height="258" key="GridCell.Tab.1.left" timestamp="1642507320056">
+    <state width="1493" height="260" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1650028445419" />
+    <state width="1493" height="260" key="GridCell.Tab.1.left" timestamp="1650028445419">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="725" height="258" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1642507320056" />
-    <state width="725" height="258" key="GridCell.Tab.1.right" timestamp="1642507320056">
+    <state width="1493" height="260" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1650028445419" />
+    <state width="1493" height="260" key="GridCell.Tab.1.right" timestamp="1650028445419">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="725" height="258" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1642507320056" />
+    <state width="1493" height="260" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1650028445419" />
     <state x="814" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1645703220032">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -263,7 +269,10 @@
     <SUITE FILE_PATH="coverage/RestartPython$serialization.coverage" NAME="serialization Coverage Results" MODIFIED="1645704856922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/serialization_related" />
     <SUITE FILE_PATH="coverage/RestartPython$sqlite3_related.coverage" NAME="sqlite3_related Coverage Results" MODIFIED="1645703771368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/RestartPython$delete_value.coverage" NAME="delete_value Coverage Results" MODIFIED="1645706808232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sqlite3_related" />
+    <SUITE FILE_PATH="coverage/RestartPython$usage_inherit.coverage" NAME="usage_inherit Coverage Results" MODIFIED="1650028869026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/multiprocess_related" />
+    <SUITE FILE_PATH="coverage/RestartPython$usage_func_join.coverage" NAME="usage_func_join Coverage Results" MODIFIED="1650027971560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/multiprocess_related" />
     <SUITE FILE_PATH="coverage/RestartPython$shutil_related.coverage" NAME="shutil_related Coverage Results" MODIFIED="1645704813697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/os_related" />
+    <SUITE FILE_PATH="coverage/RestartPython$usage_property.coverage" NAME="usage_property Coverage Results" MODIFIED="1650028091166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/multiprocess_related" />
     <SUITE FILE_PATH="coverage/RestartPython$copy_deepcopy__1_.coverage" NAME="copy_deepcopy (1) Coverage Results" MODIFIED="1636605354762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/RestartPython$update_value.coverage" NAME="update_value Coverage Results" MODIFIED="1645706653924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sqlite3_related" />
     <SUITE FILE_PATH="coverage/RestartPython$paint__1_.coverage" NAME="paint (1) Coverage Results" MODIFIED="1645704717062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI_related" />
