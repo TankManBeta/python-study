@@ -4,6 +4,7 @@
     @Author 坦克手贝塔
     @Date 2022/4/15 21:14
 """
+# 继承Process类，同时重写run方法
 from multiprocessing import Process
 import time
 
