@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4a95b42c-ac2f-4ddc-a4b0-16e0b223d6c6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multiprocess_related/usage_thread_communication_problem.py" beforeDir="false" afterPath="$PROJECT_DIR$/multiprocess_related/usage_thread_communication_problem.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,9 +35,6 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/multiprocess_related" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\workspace\PycharmProjects\RestartPython\multiprocess_related" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\workspace\PycharmProjects\RestartPython\structure_related" />
       <recent name="D:\workspace\PycharmProjects\RestartPython\pattern_related" />
@@ -44,9 +42,12 @@
       <recent name="D:\workspace\PycharmProjects\RestartPython\sql_related" />
       <recent name="D:\workspace\PycharmProjects\RestartPython\draw_related" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace\PycharmProjects\RestartPython\multiprocess_related" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.usage_thread_communication_problem">
-    <configuration name="usage_communication" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.synchronization">
+    <configuration name="mutex_lock" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="RestartPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -59,7 +60,51 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/multiprocess_related/usage_communication.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/multiprocess_related/mutex_lock.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mutex_lock1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="RestartPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/multiprocess_related" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/multiprocess_related/mutex_lock1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="synchronization" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="RestartPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/multiprocess_related" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/multiprocess_related/synchronization.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -112,64 +157,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="usage_threading1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="RestartPython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/multiprocess_related" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\workspace\PycharmProjects\RestartPython\multiprocess_related\usage_threading1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="usage_threading2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="RestartPython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/multiprocess_related" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/multiprocess_related/usage_threading2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
-      <item itemvalue="Python.usage_threading1" />
-      <item itemvalue="Python.usage_threading2" />
-      <item itemvalue="Python.usage_communication" />
       <item itemvalue="Python.usage_thread_communication" />
       <item itemvalue="Python.usage_thread_communication_problem" />
+      <item itemvalue="Python.mutex_lock" />
+      <item itemvalue="Python.mutex_lock1" />
+      <item itemvalue="Python.synchronization" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.synchronization" />
+        <item itemvalue="Python.mutex_lock1" />
+        <item itemvalue="Python.mutex_lock" />
         <item itemvalue="Python.usage_thread_communication_problem" />
         <item itemvalue="Python.usage_thread_communication" />
-        <item itemvalue="Python.usage_communication" />
-        <item itemvalue="Python.usage_threading2" />
-        <item itemvalue="Python.usage_threading1" />
       </list>
     </recent_temporary>
   </component>
@@ -217,7 +218,10 @@
       <workItem from="1652597754166" duration="67000" />
       <workItem from="1663673838874" duration="7779000" />
       <workItem from="1663764723846" duration="40000" />
-      <workItem from="1667393899994" duration="2029000" />
+      <workItem from="1667393899994" duration="2279000" />
+      <workItem from="1667449094864" duration="8000" />
+      <workItem from="1667461322415" duration="521000" />
+      <workItem from="1667461858931" duration="1193000" />
     </task>
     <servers />
   </component>
@@ -225,22 +229,22 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1493" height="208" key="GridCell.Tab.0.bottom" timestamp="1667395191019">
+    <state width="723" height="207" key="GridCell.Tab.0.bottom" timestamp="1667463062278">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1667395191019" />
-    <state width="1493" height="208" key="GridCell.Tab.0.center" timestamp="1667395191019">
+    <state width="723" height="207" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1667463062278" />
+    <state width="723" height="207" key="GridCell.Tab.0.center" timestamp="1667463062278">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="208" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1667395191019" />
-    <state width="1493" height="208" key="GridCell.Tab.0.left" timestamp="1667395191019">
+    <state width="723" height="207" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1667463062278" />
+    <state width="723" height="207" key="GridCell.Tab.0.left" timestamp="1667463062278">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="208" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1667395191019" />
-    <state width="1493" height="208" key="GridCell.Tab.0.right" timestamp="1667395191019">
+    <state width="723" height="207" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1667463062278" />
+    <state width="723" height="207" key="GridCell.Tab.0.right" timestamp="1667463062278">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="208" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1667395191019" />
+    <state width="723" height="207" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1667463062278" />
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1663680759800">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -271,8 +275,10 @@
     <SUITE FILE_PATH="coverage/RestartPython$usage_queue.coverage" NAME="usage_queue Coverage Results" MODIFIED="1663677018849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/multiprocess_related" />
     <SUITE FILE_PATH="coverage/RestartPython$usage_thread_communication.coverage" NAME="usage_thread_communication Coverage Results" MODIFIED="1667394729848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/multiprocess_related" />
     <SUITE FILE_PATH="coverage/RestartPython$shallow_copy.coverage" NAME="shallow_copy Coverage Results" MODIFIED="1645704689311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/copy_related" />
+    <SUITE FILE_PATH="coverage/RestartPython$mutex_lock.coverage" NAME="mutex_lock Coverage Results" MODIFIED="1667462440906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/multiprocess_related" />
     <SUITE FILE_PATH="coverage/RestartPython$insert_value.coverage" NAME="insert_value Coverage Results" MODIFIED="1645706529335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sqlite3_related" />
     <SUITE FILE_PATH="coverage/RestartPython$query_values__1_.coverage" NAME="query_values Coverage Results" MODIFIED="1645706812109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sqlite3_related" />
+    <SUITE FILE_PATH="coverage/RestartPython$synchronization.coverage" NAME="synchronization Coverage Results" MODIFIED="1667463035508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/multiprocess_related" />
     <SUITE FILE_PATH="coverage/RestartPython$insert_values.coverage" NAME="insert_values Coverage Results" MODIFIED="1645706533358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sqlite3_related" />
     <SUITE FILE_PATH="coverage/RestartPython$create_table.coverage" NAME="create_table Coverage Results" MODIFIED="1645706520418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sqlite3_related" />
     <SUITE FILE_PATH="coverage/RestartPython$query_value.coverage" NAME="query_value Coverage Results" MODIFIED="1645706583339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sqlite3_related" />
@@ -286,5 +292,6 @@
     <SUITE FILE_PATH="coverage/RestartPython$for_else.coverage" NAME="for_else Coverage Results" MODIFIED="1645705137985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/structure_related" />
     <SUITE FILE_PATH="coverage/RestartPython$query_values.coverage" NAME="query_values Coverage Results" MODIFIED="1645706056585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sql_related" />
     <SUITE FILE_PATH="coverage/RestartPython$factory_pattern.coverage" NAME="factory_pattern Coverage Results" MODIFIED="1645704841239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pattern_related" />
+    <SUITE FILE_PATH="coverage/RestartPython$mutex_lock1.coverage" NAME="mutex_lock1 Coverage Results" MODIFIED="1667462576303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/multiprocess_related" />
   </component>
 </project>
