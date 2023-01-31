@@ -45,30 +45,8 @@
       <recent name="D:\workspace\PycharmProjects\RestartPython\multiprocess_related" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.prototype_pattern">
-    <configuration name="ThreadLocal" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="RestartPython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/multiprocess_related" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/multiprocess_related/ThreadLocal.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="abstract_factory_pattern" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.composite_pattern">
+    <configuration name="adapter_pattern" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="RestartPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -81,7 +59,29 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pattern_related/abstract_factory_pattern.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pattern_related/adapter_pattern.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="bridge_pattern" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="RestartPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pattern_related" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pattern_related/bridge_pattern.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -112,6 +112,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="composite_pattern" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="RestartPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pattern_related" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pattern_related/composite_pattern.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="prototype_pattern" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="RestartPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -134,42 +156,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="socket_UDP" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="RestartPython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Net_related" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Net_related/socket_UDP.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
-      <item itemvalue="Python.ThreadLocal" />
-      <item itemvalue="Python.socket_UDP" />
-      <item itemvalue="Python.abstract_factory_pattern" />
       <item itemvalue="Python.builder_pattern" />
       <item itemvalue="Python.prototype_pattern" />
+      <item itemvalue="Python.adapter_pattern" />
+      <item itemvalue="Python.bridge_pattern" />
+      <item itemvalue="Python.composite_pattern" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.composite_pattern" />
+        <item itemvalue="Python.bridge_pattern" />
+        <item itemvalue="Python.adapter_pattern" />
         <item itemvalue="Python.prototype_pattern" />
         <item itemvalue="Python.builder_pattern" />
-        <item itemvalue="Python.abstract_factory_pattern" />
-        <item itemvalue="Python.socket_UDP" />
-        <item itemvalue="Python.ThreadLocal" />
       </list>
     </recent_temporary>
   </component>
@@ -230,7 +230,8 @@
       <workItem from="1674911028604" duration="35000" />
       <workItem from="1674917610041" duration="220000" />
       <workItem from="1674917974971" duration="29000" />
-      <workItem from="1674976864632" duration="1755000" />
+      <workItem from="1674976864632" duration="2003000" />
+      <workItem from="1675044151824" duration="2422000" />
     </task>
     <servers />
   </component>
@@ -238,70 +239,73 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1493" height="206" key="GridCell.Tab.0.bottom" timestamp="1674991139591">
+    <state width="1493" height="206" key="GridCell.Tab.0.bottom" timestamp="1675172992536">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="206" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1674991139591" />
-    <state width="1493" height="206" key="GridCell.Tab.0.center" timestamp="1674991139591">
+    <state width="1493" height="206" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1675172992536" />
+    <state width="1493" height="206" key="GridCell.Tab.0.center" timestamp="1675172992536">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="206" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1674991139591" />
-    <state width="1493" height="206" key="GridCell.Tab.0.left" timestamp="1674991139591">
+    <state width="1493" height="206" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1675172992536" />
+    <state width="1493" height="206" key="GridCell.Tab.0.left" timestamp="1675172992536">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="206" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1674991139591" />
-    <state width="1493" height="206" key="GridCell.Tab.0.right" timestamp="1674991139591">
+    <state width="1493" height="206" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1675172992536" />
+    <state width="1493" height="206" key="GridCell.Tab.0.right" timestamp="1675172992536">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="206" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1674991139591" />
+    <state width="1493" height="206" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1675172992536" />
     <state x="815" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1673959822311">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="815" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1673959822311" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/RestartPython$usage_communication.coverage" NAME="usage_communication Coverage Results" MODIFIED="1667394059460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/multiprocess_related" />
-    <SUITE FILE_PATH="coverage/RestartPython$aa.coverage" NAME="aa Coverage Results" MODIFIED="1636385055525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/RestartPython$variant_string.coverage" NAME="variant_string Coverage Results" MODIFIED="1645705122213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/string_related" />
     <SUITE FILE_PATH="coverage/RestartPython$multiprocess.coverage" NAME="multiprocess Coverage Results" MODIFIED="1648281231712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/multiprocess_related" />
-    <SUITE FILE_PATH="coverage/RestartPython$usage_communication_queue2.coverage" NAME="usage_communication_queue2 Coverage Results" MODIFIED="1663679728203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/multiprocess_related" />
     <SUITE FILE_PATH="coverage/RestartPython$usage_thread_communication_problem.coverage" NAME="usage_thread_communication_problem Coverage Results" MODIFIED="1667395191019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/multiprocess_related" />
-    <SUITE FILE_PATH="coverage/RestartPython$usage_threading.coverage" NAME="usage_threading Coverage Results" MODIFIED="1663681440130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/multiprocess_related" />
     <SUITE FILE_PATH="coverage/RestartPython$tkinter_related.coverage" NAME="tkinter_related Coverage Results" MODIFIED="1642485923622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RestartPython$composite_pattern.coverage" NAME="composite_pattern Coverage Results" MODIFIED="1675172992521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pattern_related" />
     <SUITE FILE_PATH="coverage/RestartPython$usage_thread.coverage" NAME="usage_thread Coverage Results" MODIFIED="1663681056581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/multiprocess_related" />
-    <SUITE FILE_PATH="coverage/RestartPython$serialization.coverage" NAME="serialization Coverage Results" MODIFIED="1645704856922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/serialization_related" />
     <SUITE FILE_PATH="coverage/RestartPython$sqlite3_related.coverage" NAME="sqlite3_related Coverage Results" MODIFIED="1645703771368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/RestartPython$delete_value.coverage" NAME="delete_value Coverage Results" MODIFIED="1645706808232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sqlite3_related" />
-    <SUITE FILE_PATH="coverage/RestartPython$usage_inherit.coverage" NAME="usage_inherit Coverage Results" MODIFIED="1650028869026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/multiprocess_related" />
     <SUITE FILE_PATH="coverage/RestartPython$usage_func_join.coverage" NAME="usage_func_join Coverage Results" MODIFIED="1650027971560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/multiprocess_related" />
-    <SUITE FILE_PATH="coverage/RestartPython$shutil_related.coverage" NAME="shutil_related Coverage Results" MODIFIED="1645704813697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/os_related" />
     <SUITE FILE_PATH="coverage/RestartPython$usage_property.coverage" NAME="usage_property Coverage Results" MODIFIED="1663674313260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/multiprocess_related" />
     <SUITE FILE_PATH="coverage/RestartPython$usage_communication_queue.coverage" NAME="usage_communication_queue Coverage Results" MODIFIED="1663677798086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/multiprocess_related" />
     <SUITE FILE_PATH="coverage/RestartPython$builder_pattern.coverage" NAME="builder_pattern Coverage Results" MODIFIED="1674987734219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pattern_related" />
-    <SUITE FILE_PATH="coverage/RestartPython$copy_deepcopy__1_.coverage" NAME="copy_deepcopy (1) Coverage Results" MODIFIED="1636605354762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/RestartPython$update_value.coverage" NAME="update_value Coverage Results" MODIFIED="1645706653924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sqlite3_related" />
-    <SUITE FILE_PATH="coverage/RestartPython$usage_process_pool.coverage" NAME="usage_process_pool Coverage Results" MODIFIED="1663675838486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/multiprocess_related" />
-    <SUITE FILE_PATH="coverage/RestartPython$paint__1_.coverage" NAME="paint (1) Coverage Results" MODIFIED="1645704717062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI_related" />
     <SUITE FILE_PATH="coverage/RestartPython$usage_queue.coverage" NAME="usage_queue Coverage Results" MODIFIED="1663677018849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/multiprocess_related" />
     <SUITE FILE_PATH="coverage/RestartPython$usage_thread_communication.coverage" NAME="usage_thread_communication Coverage Results" MODIFIED="1667394729848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/multiprocess_related" />
-    <SUITE FILE_PATH="coverage/RestartPython$shallow_copy.coverage" NAME="shallow_copy Coverage Results" MODIFIED="1645704689311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/copy_related" />
     <SUITE FILE_PATH="coverage/RestartPython$mutex_lock.coverage" NAME="mutex_lock Coverage Results" MODIFIED="1667462440906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/multiprocess_related" />
+    <SUITE FILE_PATH="coverage/RestartPython$bridge_pattern.coverage" NAME="bridge_pattern Coverage Results" MODIFIED="1675172508286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pattern_related" />
     <SUITE FILE_PATH="coverage/RestartPython$insert_value.coverage" NAME="insert_value Coverage Results" MODIFIED="1645706529335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sqlite3_related" />
     <SUITE FILE_PATH="coverage/RestartPython$abstract_factory_pattern.coverage" NAME="abstract_factory_pattern Coverage Results" MODIFIED="1674917718597" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pattern_related" />
     <SUITE FILE_PATH="coverage/RestartPython$query_values__1_.coverage" NAME="query_values Coverage Results" MODIFIED="1645706812109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sqlite3_related" />
     <SUITE FILE_PATH="coverage/RestartPython$synchronization.coverage" NAME="synchronization Coverage Results" MODIFIED="1667463035508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/multiprocess_related" />
-    <SUITE FILE_PATH="coverage/RestartPython$insert_values.coverage" NAME="insert_values Coverage Results" MODIFIED="1645706533358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sqlite3_related" />
     <SUITE FILE_PATH="coverage/RestartPython$create_table.coverage" NAME="create_table Coverage Results" MODIFIED="1645706520418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sqlite3_related" />
     <SUITE FILE_PATH="coverage/RestartPython$query_value.coverage" NAME="query_value Coverage Results" MODIFIED="1645706583339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sqlite3_related" />
     <SUITE FILE_PATH="coverage/RestartPython$singleton_pattern.coverage" NAME="singleton_pattern Coverage Results" MODIFIED="1645704845226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pattern_related" />
     <SUITE FILE_PATH="coverage/RestartPython$os_related.coverage" NAME="os_related Coverage Results" MODIFIED="1645704733656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/os_related" />
     <SUITE FILE_PATH="coverage/RestartPython$deep_copy.coverage" NAME="deep_copy Coverage Results" MODIFIED="1645704683688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/copy_related" />
+    <SUITE FILE_PATH="coverage/RestartPython$usage_threading2.coverage" NAME="usage_threading2 Coverage Results" MODIFIED="1663682117474" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/multiprocess_related" />
+    <SUITE FILE_PATH="coverage/RestartPython$aaa.coverage" NAME="aaa Coverage Results" MODIFIED="1636537676217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RestartPython$usage_communication.coverage" NAME="usage_communication Coverage Results" MODIFIED="1667394059460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/multiprocess_related" />
+    <SUITE FILE_PATH="coverage/RestartPython$aa.coverage" NAME="aa Coverage Results" MODIFIED="1636385055525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RestartPython$usage_communication_queue2.coverage" NAME="usage_communication_queue2 Coverage Results" MODIFIED="1663679728203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/multiprocess_related" />
+    <SUITE FILE_PATH="coverage/RestartPython$usage_threading.coverage" NAME="usage_threading Coverage Results" MODIFIED="1663681440130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/multiprocess_related" />
+    <SUITE FILE_PATH="coverage/RestartPython$serialization.coverage" NAME="serialization Coverage Results" MODIFIED="1645704856922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/serialization_related" />
+    <SUITE FILE_PATH="coverage/RestartPython$delete_value.coverage" NAME="delete_value Coverage Results" MODIFIED="1645706808232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sqlite3_related" />
+    <SUITE FILE_PATH="coverage/RestartPython$usage_inherit.coverage" NAME="usage_inherit Coverage Results" MODIFIED="1650028869026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/multiprocess_related" />
+    <SUITE FILE_PATH="coverage/RestartPython$shutil_related.coverage" NAME="shutil_related Coverage Results" MODIFIED="1645704813697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/os_related" />
+    <SUITE FILE_PATH="coverage/RestartPython$copy_deepcopy__1_.coverage" NAME="copy_deepcopy (1) Coverage Results" MODIFIED="1636605354762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RestartPython$update_value.coverage" NAME="update_value Coverage Results" MODIFIED="1645706653924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sqlite3_related" />
+    <SUITE FILE_PATH="coverage/RestartPython$usage_process_pool.coverage" NAME="usage_process_pool Coverage Results" MODIFIED="1663675838486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/multiprocess_related" />
+    <SUITE FILE_PATH="coverage/RestartPython$paint__1_.coverage" NAME="paint (1) Coverage Results" MODIFIED="1645704717062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI_related" />
+    <SUITE FILE_PATH="coverage/RestartPython$shallow_copy.coverage" NAME="shallow_copy Coverage Results" MODIFIED="1645704689311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/copy_related" />
+    <SUITE FILE_PATH="coverage/RestartPython$insert_values.coverage" NAME="insert_values Coverage Results" MODIFIED="1645706533358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sqlite3_related" />
     <SUITE FILE_PATH="coverage/RestartPython$draw_olympic.coverage" NAME="draw_olympic Coverage Results" MODIFIED="1645704697060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/draw_related" />
     <SUITE FILE_PATH="coverage/RestartPython$producer_consumer.coverage" NAME="producer-consumer Coverage Results" MODIFIED="1667473627612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/multiprocess_related" />
     <SUITE FILE_PATH="coverage/RestartPython$socket_UDP.coverage" NAME="socket_UDP Coverage Results" MODIFIED="1673961050081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Net_related" />
-    <SUITE FILE_PATH="coverage/RestartPython$usage_threading2.coverage" NAME="usage_threading2 Coverage Results" MODIFIED="1663682117474" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/multiprocess_related" />
     <SUITE FILE_PATH="coverage/RestartPython$paint.coverage" NAME="paint Coverage Results" MODIFIED="1645704152120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SimplePaint" />
-    <SUITE FILE_PATH="coverage/RestartPython$aaa.coverage" NAME="aaa Coverage Results" MODIFIED="1636537676217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RestartPython$adapter_pattern.coverage" NAME="adapter_pattern Coverage Results" MODIFIED="1675172127371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pattern_related" />
     <SUITE FILE_PATH="coverage/RestartPython$for_else.coverage" NAME="for_else Coverage Results" MODIFIED="1645705137985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/structure_related" />
     <SUITE FILE_PATH="coverage/RestartPython$query_values.coverage" NAME="query_values Coverage Results" MODIFIED="1645706056585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sql_related" />
     <SUITE FILE_PATH="coverage/RestartPython$prototype_pattern.coverage" NAME="prototype_pattern Coverage Results" MODIFIED="1674991139576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pattern_related" />
