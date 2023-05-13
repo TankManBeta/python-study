@@ -7,12 +7,12 @@
 from socket import *
 
 s = socket(AF_INET, SOCK_DGRAM)
-# 绑定一个接受消息使用的端口
+# 绑定一个端口，ip一般不用写
 s.bind(('', 9988))
-addr = ("192.168.100.107", 9999)
+addr = ("192.168.1.103", 9999)
 data = input("请输入要发送的消息：")
 s.sendto(data.encode("gb2312"), addr)
 # 本次接受的最大字节数
 re_data = s.recvfrom(1024)
-print(re_data)
+print(re_data[0].decode("gb2312"))
 s.close()
