@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="4a95b42c-ac2f-4ddc-a4b0-16e0b223d6c6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Net_related/socket_UDP.py" beforeDir="false" afterPath="$PROJECT_DIR$/Net_related/socket_UDP.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,8 +45,8 @@
       <recent name="D:\workspace\PycharmProjects\RestartPython\multiprocess_related" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.TCP_Client">
-    <configuration name="TCP_Client" type="PythonConfigurationType" factoryName="Python" singleton="false" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.偏函数">
+    <configuration name="偏函数" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="RestartPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -55,12 +54,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Net_related" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Advanced_function" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Net_related/TCP_Client.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Advanced_function/偏函数.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -69,7 +68,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="TCP_Server" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="装饰器1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="RestartPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -77,12 +76,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Net_related" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Advanced_function" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Net_related/TCP_Server.py" />
+      <option name="SCRIPT_NAME" value="D:\workspace\PycharmProjects\RestartPython\Advanced_function\装饰器1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -91,7 +90,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="socket_TCP_QQClient" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="装饰器2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="RestartPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -99,12 +98,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Net_related" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Advanced_function" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Net_related/socket_TCP_QQClient.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Advanced_function/装饰器2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -113,7 +112,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="socket_TCP_QQServer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="装饰器3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="RestartPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -121,12 +120,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Net_related" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Advanced_function" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Net_related/socket_TCP_QQServer.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Advanced_function/装饰器3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -135,7 +134,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="socket_TCP_server" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="装饰器4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="RestartPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -143,12 +142,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Net_related" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Advanced_function" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Net_related/socket_TCP_server.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Advanced_function/装饰器4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -158,19 +157,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.socket_TCP_server" />
-      <item itemvalue="Python.socket_TCP_QQServer" />
-      <item itemvalue="Python.socket_TCP_QQClient" />
-      <item itemvalue="Python.TCP_Server" />
-      <item itemvalue="Python.TCP_Client" />
+      <item itemvalue="Python.装饰器1" />
+      <item itemvalue="Python.装饰器2" />
+      <item itemvalue="Python.装饰器3" />
+      <item itemvalue="Python.装饰器4" />
+      <item itemvalue="Python.偏函数" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.TCP_Client" />
-        <item itemvalue="Python.TCP_Server" />
-        <item itemvalue="Python.socket_TCP_QQClient" />
-        <item itemvalue="Python.socket_TCP_QQServer" />
-        <item itemvalue="Python.socket_TCP_server" />
+        <item itemvalue="Python.偏函数" />
+        <item itemvalue="Python.装饰器4" />
+        <item itemvalue="Python.装饰器3" />
+        <item itemvalue="Python.装饰器2" />
+        <item itemvalue="Python.装饰器1" />
       </list>
     </recent_temporary>
   </component>
@@ -238,6 +237,12 @@
       <workItem from="1675494265520" duration="599000" />
       <workItem from="1681698178951" duration="8000" />
       <workItem from="1683956024069" duration="11295000" />
+      <workItem from="1683971586010" duration="821000" />
+      <workItem from="1683982830481" duration="746000" />
+      <workItem from="1683986431663" duration="1229000" />
+      <workItem from="1684053985055" duration="6000" />
+      <workItem from="1684218917614" duration="12913000" />
+      <workItem from="1684238670623" duration="5000" />
     </task>
     <servers />
   </component>
@@ -249,22 +254,26 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="427" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1683969993614" />
-    <state width="723" height="259" key="GridCell.Tab.0.bottom" timestamp="1683971126820">
+    <state x="499" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1684226931769">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="723" height="259" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1683971126820" />
-    <state width="723" height="259" key="GridCell.Tab.0.center" timestamp="1683971126820">
+    <state x="499" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1684226931769" />
+    <state width="1493" height="194" key="GridCell.Tab.0.bottom" timestamp="1684236423164">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="723" height="259" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1683971126820" />
-    <state width="723" height="259" key="GridCell.Tab.0.left" timestamp="1683971126820">
+    <state width="1493" height="194" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1684236423164" />
+    <state width="1493" height="194" key="GridCell.Tab.0.center" timestamp="1684236423164">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="723" height="259" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1683971126820" />
-    <state width="723" height="259" key="GridCell.Tab.0.right" timestamp="1683971126820">
+    <state width="1493" height="194" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1684236423164" />
+    <state width="1493" height="194" key="GridCell.Tab.0.left" timestamp="1684236423164">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="723" height="259" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1683971126820" />
+    <state width="1493" height="194" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1684236423164" />
+    <state width="1493" height="194" key="GridCell.Tab.0.right" timestamp="1684236423164">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="194" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1684236423164" />
     <state width="723" height="259" key="GridCell.Tab.1.bottom" timestamp="1683971126820">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -281,10 +290,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="723" height="259" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1683971126820" />
-    <state x="814" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1683970160745">
+    <state x="814" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1684227452520">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="814" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1683970160745" />
+    <state x="814" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1684227452520" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/RestartPython$socket_TCP_QQServer.coverage" NAME="socket_TCP_QQServer Coverage Results" MODIFIED="1683967867956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Net_related" />
@@ -295,20 +304,26 @@
     <SUITE FILE_PATH="coverage/RestartPython$visitor_pattern.coverage" NAME="visitor_pattern Coverage Results" MODIFIED="1675297003796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pattern_related" />
     <SUITE FILE_PATH="coverage/RestartPython$tkinter_related.coverage" NAME="tkinter_related Coverage Results" MODIFIED="1642485923622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/RestartPython$composite_pattern.coverage" NAME="composite_pattern Coverage Results" MODIFIED="1675172992521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pattern_related" />
+    <SUITE FILE_PATH="coverage/RestartPython$4.coverage" NAME="装饰器4 Coverage Results" MODIFIED="1684235167057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced_function" />
     <SUITE FILE_PATH="coverage/RestartPython$usage_thread.coverage" NAME="usage_thread Coverage Results" MODIFIED="1663681056581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/multiprocess_related" />
+    <SUITE FILE_PATH="coverage/RestartPython$sorted.coverage" NAME="高阶函数sorted Coverage Results" MODIFIED="1684221558964" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced_function" />
     <SUITE FILE_PATH="coverage/RestartPython$sqlite3_related.coverage" NAME="sqlite3_related Coverage Results" MODIFIED="1645703771368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/RestartPython$TCP_Client.coverage" NAME="TCP_Client Coverage Results" MODIFIED="1683970766635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Net_related" />
     <SUITE FILE_PATH="coverage/RestartPython$usage_func_join.coverage" NAME="usage_func_join Coverage Results" MODIFIED="1650027971560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/multiprocess_related" />
+    <SUITE FILE_PATH="coverage/RestartPython$filter.coverage" NAME="高阶函数filter Coverage Results" MODIFIED="1684220535345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced_function" />
     <SUITE FILE_PATH="coverage/RestartPython$mediator_pattern.coverage" NAME="mediator_pattern Coverage Results" MODIFIED="1675297343146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pattern_related" />
     <SUITE FILE_PATH="coverage/RestartPython$usage_property.coverage" NAME="usage_property Coverage Results" MODIFIED="1663674313260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/multiprocess_related" />
     <SUITE FILE_PATH="coverage/RestartPython$usage_communication_queue.coverage" NAME="usage_communication_queue Coverage Results" MODIFIED="1663677798086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/multiprocess_related" />
     <SUITE FILE_PATH="coverage/RestartPython$builder_pattern.coverage" NAME="builder_pattern Coverage Results" MODIFIED="1674987734219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pattern_related" />
+    <SUITE FILE_PATH="coverage/RestartPython$reduce.coverage" NAME="高阶函数reduce Coverage Results" MODIFIED="1684219963852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced_function" />
     <SUITE FILE_PATH="coverage/RestartPython$socket_TCP_QQClient.coverage" NAME="socket_TCP_QQClient Coverage Results" MODIFIED="1683967872577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Net_related" />
     <SUITE FILE_PATH="coverage/RestartPython$proxy_pattern.coverage" NAME="proxy_pattern Coverage Results" MODIFIED="1675256949465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pattern_related" />
+    <SUITE FILE_PATH="coverage/RestartPython$map.coverage" NAME="高阶函数map Coverage Results" MODIFIED="1684219831815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced_function" />
     <SUITE FILE_PATH="coverage/RestartPython$usage_queue.coverage" NAME="usage_queue Coverage Results" MODIFIED="1663677018849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/multiprocess_related" />
     <SUITE FILE_PATH="coverage/RestartPython$usage_thread_communication.coverage" NAME="usage_thread_communication Coverage Results" MODIFIED="1667394729848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/multiprocess_related" />
     <SUITE FILE_PATH="coverage/RestartPython$command_pattern.coverage" NAME="command_pattern Coverage Results" MODIFIED="1675296137459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pattern_related" />
     <SUITE FILE_PATH="coverage/RestartPython$memento_pattern.coverage" NAME="memento_pattern Coverage Results" MODIFIED="1675296434395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pattern_related" />
+    <SUITE FILE_PATH="coverage/RestartPython$2.coverage" NAME="装饰器2 Coverage Results" MODIFIED="1684228812140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced_function" />
     <SUITE FILE_PATH="coverage/RestartPython$mutex_lock.coverage" NAME="mutex_lock Coverage Results" MODIFIED="1667462440906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/multiprocess_related" />
     <SUITE FILE_PATH="coverage/RestartPython$bridge_pattern.coverage" NAME="bridge_pattern Coverage Results" MODIFIED="1675172508286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pattern_related" />
     <SUITE FILE_PATH="coverage/RestartPython$insert_value.coverage" NAME="insert_value Coverage Results" MODIFIED="1645706529335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sqlite3_related" />
@@ -344,9 +359,11 @@
     <SUITE FILE_PATH="coverage/RestartPython$paint__1_.coverage" NAME="paint (1) Coverage Results" MODIFIED="1645704717062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI_related" />
     <SUITE FILE_PATH="coverage/RestartPython$decorator_pattern.coverage" NAME="decorator_pattern Coverage Results" MODIFIED="1675256076328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pattern_related" />
     <SUITE FILE_PATH="coverage/RestartPython$shallow_copy.coverage" NAME="shallow_copy Coverage Results" MODIFIED="1645704689311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/copy_related" />
+    <SUITE FILE_PATH="coverage/RestartPython$3.coverage" NAME="装饰器3 Coverage Results" MODIFIED="1684234351142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced_function" />
     <SUITE FILE_PATH="coverage/RestartPython$socket_TCP_server.coverage" NAME="socket_TCP_server Coverage Results" MODIFIED="1683966019154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Net_related" />
     <SUITE FILE_PATH="coverage/RestartPython$TCP_Server.coverage" NAME="TCP_Server Coverage Results" MODIFIED="1683970760169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Net_related" />
     <SUITE FILE_PATH="coverage/RestartPython$strategy_pattern.coverage" NAME="strategy_pattern Coverage Results" MODIFIED="1675257134657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pattern_related" />
+    <SUITE FILE_PATH="coverage/RestartPython$.coverage" NAME="偏函数 Coverage Results" MODIFIED="1684235714382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced_function" />
     <SUITE FILE_PATH="coverage/RestartPython$insert_values.coverage" NAME="insert_values Coverage Results" MODIFIED="1645706533358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sqlite3_related" />
     <SUITE FILE_PATH="coverage/RestartPython$draw_olympic.coverage" NAME="draw_olympic Coverage Results" MODIFIED="1645704697060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/draw_related" />
     <SUITE FILE_PATH="coverage/RestartPython$producer_consumer.coverage" NAME="producer-consumer Coverage Results" MODIFIED="1667473627612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/multiprocess_related" />
