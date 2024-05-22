@@ -32,6 +32,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/multiprocess_related" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -45,7 +46,7 @@
       <recent name="D:\workspace\PycharmProjects\RestartPython\sql_related" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.协程">
+  <component name="RunManager" selected="Python.client">
     <configuration name="协程" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="RestartPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -134,6 +135,72 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="client" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="RestartPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/grpc_demo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/grpc_demo/client.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="server (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="RestartPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/grpc_demo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/grpc_demo/server.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="server" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="RestartPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/grpc" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/grpc/server.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="创建task" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="RestartPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -159,9 +226,15 @@
     <list>
       <item itemvalue="Python.协程" />
       <item itemvalue="Python.创建task" />
+      <item itemvalue="Python.server" />
+      <item itemvalue="Python.server (1)" />
+      <item itemvalue="Python.client" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.client" />
+        <item itemvalue="Python.server (1)" />
+        <item itemvalue="Python.server" />
         <item itemvalue="Python.创建task" />
         <item itemvalue="Python.协程" />
       </list>
@@ -244,58 +317,42 @@
       <workItem from="1684458504404" duration="126000" />
       <workItem from="1684481007596" duration="9594000" />
       <workItem from="1684556498346" duration="191000" />
-      <workItem from="1687163826123" duration="2483000" />
+      <workItem from="1687163826123" duration="2524000" />
+      <workItem from="1697017121183" duration="62000" />
+      <workItem from="1716199212219" duration="117000" />
+      <workItem from="1716199353716" duration="688000" />
+      <workItem from="1716389999599" duration="1276000" />
+      <workItem from="1716391434674" duration="75000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.proto" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="427" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1683969993614">
+    <state x="501" y="215" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1716199312051">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="427" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1683969993614" />
-    <state x="499" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1684226931769">
+    <state x="501" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1716199312051" />
+    <state width="1493" height="191" key="GridCell.Tab.0.bottom" timestamp="1716391547433">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="499" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1684226931769" />
-    <state width="724" height="256" key="GridCell.Tab.0.bottom" timestamp="1684493775426">
+    <state width="1493" height="191" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1716391547433" />
+    <state width="1493" height="191" key="GridCell.Tab.0.center" timestamp="1716391547433">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="724" height="256" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1684493775426" />
-    <state width="724" height="256" key="GridCell.Tab.0.center" timestamp="1684493775426">
+    <state width="1493" height="191" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1716391547433" />
+    <state width="1493" height="191" key="GridCell.Tab.0.left" timestamp="1716391547432">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="724" height="256" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1684493775426" />
-    <state width="724" height="256" key="GridCell.Tab.0.left" timestamp="1684493775426">
+    <state width="1493" height="191" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1716391547432" />
+    <state width="1493" height="191" key="GridCell.Tab.0.right" timestamp="1716391547433">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="724" height="256" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1684493775426" />
-    <state width="724" height="256" key="GridCell.Tab.0.right" timestamp="1684493775426">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="724" height="256" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1684493775426" />
-    <state width="724" height="256" key="GridCell.Tab.1.bottom" timestamp="1684493775426">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="724" height="256" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1684493775426" />
-    <state width="724" height="256" key="GridCell.Tab.1.center" timestamp="1684493775426">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="724" height="256" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1684493775426" />
-    <state width="724" height="256" key="GridCell.Tab.1.left" timestamp="1684493775426">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="724" height="256" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1684493775426" />
-    <state width="724" height="256" key="GridCell.Tab.1.right" timestamp="1684493775426">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="724" height="256" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1684493775426" />
-    <state x="814" y="146" width="672" height="678" key="search.everywhere.popup" timestamp="1684489300565">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="814" y="146" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1684489300565" />
+    <state width="1493" height="191" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1716391547433" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/RestartPython$socket_TCP_QQServer.coverage" NAME="socket_TCP_QQServer Coverage Results" MODIFIED="1683967867956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Net_related" />
@@ -318,6 +375,7 @@
     <SUITE FILE_PATH="coverage/RestartPython$usage_communication_queue.coverage" NAME="usage_communication_queue Coverage Results" MODIFIED="1663677798086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/multiprocess_related" />
     <SUITE FILE_PATH="coverage/RestartPython$builder_pattern.coverage" NAME="builder_pattern Coverage Results" MODIFIED="1674987734219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pattern_related" />
     <SUITE FILE_PATH="coverage/RestartPython$reduce.coverage" NAME="高阶函数reduce Coverage Results" MODIFIED="1684219963852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced_function" />
+    <SUITE FILE_PATH="coverage/RestartPython$server.coverage" NAME="server Coverage Results" MODIFIED="1716390338135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/grpc" />
     <SUITE FILE_PATH="coverage/RestartPython$socket_TCP_QQClient.coverage" NAME="socket_TCP_QQClient Coverage Results" MODIFIED="1683967872577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Net_related" />
     <SUITE FILE_PATH="coverage/RestartPython$proxy_pattern.coverage" NAME="proxy_pattern Coverage Results" MODIFIED="1675256949465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pattern_related" />
     <SUITE FILE_PATH="coverage/RestartPython$map.coverage" NAME="高阶函数map Coverage Results" MODIFIED="1684219831815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced_function" />
@@ -375,11 +433,13 @@
     <SUITE FILE_PATH="coverage/RestartPython$.coverage" NAME="协程嵌套 Coverage Results" MODIFIED="1684489436777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/coroutine_related" />
     <SUITE FILE_PATH="coverage/RestartPython$insert_values.coverage" NAME="insert_values Coverage Results" MODIFIED="1645706533358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sqlite3_related" />
     <SUITE FILE_PATH="coverage/RestartPython$yield.coverage" NAME="yield实现生产者消费者 Coverage Results" MODIFIED="1684484246650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/coroutine_related" />
+    <SUITE FILE_PATH="coverage/RestartPython$client.coverage" NAME="client Coverage Results" MODIFIED="1716391511166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/grpc_demo" />
     <SUITE FILE_PATH="coverage/RestartPython$draw_olympic.coverage" NAME="draw_olympic Coverage Results" MODIFIED="1645704697060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/draw_related" />
     <SUITE FILE_PATH="coverage/RestartPython$producer_consumer.coverage" NAME="producer-consumer Coverage Results" MODIFIED="1667473627612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/multiprocess_related" />
     <SUITE FILE_PATH="coverage/RestartPython$socket_UDP.coverage" NAME="socket_UDP Coverage Results" MODIFIED="1683958189893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Net_related" />
     <SUITE FILE_PATH="coverage/RestartPython$paint.coverage" NAME="paint Coverage Results" MODIFIED="1645704152120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SimplePaint" />
     <SUITE FILE_PATH="coverage/RestartPython$adapter_pattern.coverage" NAME="adapter_pattern Coverage Results" MODIFIED="1675172127371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pattern_related" />
+    <SUITE FILE_PATH="coverage/RestartPython$server__1_.coverage" NAME="server (1) Coverage Results" MODIFIED="1716391494631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/grpc_demo" />
     <SUITE FILE_PATH="coverage/RestartPython$for_else.coverage" NAME="for_else Coverage Results" MODIFIED="1645705137985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/structure_related" />
     <SUITE FILE_PATH="coverage/RestartPython$query_values.coverage" NAME="query_values Coverage Results" MODIFIED="1645706056585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sql_related" />
     <SUITE FILE_PATH="coverage/RestartPython$prototype_pattern.coverage" NAME="prototype_pattern Coverage Results" MODIFIED="1674991139576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pattern_related" />
